@@ -1,15 +1,15 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Prantik Kundu, PhD
 email:
-  url: mailto:woden@cs.cmu.edu
+  url: 
   text: woden@cs.cmu.edu
 homepage:
   url: http://cs.cmu.edu/~woden
   text: cs.cmu.edu/~woden
 ---
 
-# Wode **Ni**
+# **Prantik Kundu** PhD 
 
 <!--
 include contact information from the front matter
@@ -64,25 +64,6 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 [[PDF](http://plateau-workshop.org/assets/papers-2019/9.pdf)]
 [[slides](https://www.cs.cmu.edu/~woden/assets/plateau-19-presentation.pdf)]
 
-### [**Designing Declarative Language Tutorials: a Guided and Individualized Approach**](http://plateau-workshop.org/assets/papers-2019/2.pdf)
-
-Anael Kuperwajs Cohen, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://plateau-workshop.org/assets/papers-2019/2.pdf)]
-[[slides](https://www.cs.cmu.edu/~woden/assets/plateau-19-presentation.pdf)]
-
-### [**Substance and Style: domain-specific languages for mathematical diagrams**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-
-**Wode Ni\***, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> _Domain-Specific Language Design and Implementation (DSLDI 2017), co-located with SPLASH._ <br>
-[[PDF](https://www.cs.cmu.edu/~woden/assets/dsldi.pdf)]
-[[slides](https://www.cs.cmu.edu/~woden/assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
-
-### [**Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)
-
-**Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF](https://www.cs.cmu.edu/~woden/assets/superres.pdf)]
 
 ----
 
