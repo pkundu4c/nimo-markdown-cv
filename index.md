@@ -6,11 +6,11 @@ email:
   text: prantikk@gmail.com
 homepage:
   url: scholar.google.com/prantikk
-  text: Google Scholar Profile
+  text: Google Scholar
 ---
 
 ## **Prantik Kundu, PhD** 
-
+### Neuropsychiatry, Artificial Intelligence, Magnetic Resonance Imaging
 <!--
 include contact information from the front matter
 Supported arguments:
