@@ -9,7 +9,7 @@ homepage:
   text: cs.cmu.edu/~woden
 ---
 
-# **Prantik Kundu** PhD 
+## **Prantik Kundu** PhD 
 
 <!--
 include contact information from the front matter
