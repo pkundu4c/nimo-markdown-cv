@@ -2,14 +2,14 @@
 layout: cv
 title: Prantik Kundu, PhD
 email:
-  url: 
-  text: woden@cs.cmu.edu
+  url: prantikk@gmail.com
+  text: prantikk@gmail.com
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: scholar.google.com/prantikk
+  text: Google Scholar Profile
 ---
 
-## **Prantik Kundu** PhD 
+## **Prantik Kundu, PhD** 
 
 <!--
 include contact information from the front matter
