@@ -9,7 +9,7 @@ homepage:
   text: Google Scholar
 ---
 
-## **Prantik Kundu, PhD** 
+# Prantik Kundu **PhD** 
 ### Neuropsychiatry, Artificial Intelligence, Magnetic Resonance Imaging
 <!--
 include contact information from the front matter
