@@ -19,10 +19,10 @@ Supported arguments:
     - email
 -->
 
-## About Me 
+## [About Me](#about-me) 
 I am a a leader in the field of computational psychiatry and pioneer in the use of high- and ultra-high-field MRI (3T-11.7T) to study the activity of neural circuits in human neuropsychiatric disease. I am also Head of Ecosystem and Principal Scientist at Hyperfine Research, where I make fundamental contributions to methods of data acqusition and image reconstruction for ultra-low field permanent-magnet (64mT) bedside MRI. Before joining Hyperfine, my group and I raised approximately $14,000,000 in NIH funding for our laboratory at the Icahn School of Medicine at Mount Sinai. I also contribute scholarship in the field of philosophy of mind. My work has been referenced about 1,800 times in scientific literature (since 2015).
 
-## Notable Scholarship
+## [Notable Scholarship](#notable-scholarship)
 - Morris, L. S.; Tan, A.; Smith, D. A; Grehl, M.; Han-Huang, K.; Naidich, T.; Charney, D. S.; Balchandani, P.; Murrough, J. W.; **Kundu, P.** "Sub-millimeter variation in human locus coeruleus is associated with dimensional measures of psychopathology: An in vivo ultra-high field 7-Tesla MRI study." ***NeuroImage: Clinical. 2020.***
 - **Kundu, P.**; Benson, B. E.; Rosen, D.; Frangou, S.; Leibenluft, E; Luh, W.M.; Bandettini, P. A.; Pine, D. S.; Ernst, M. "The integration of functional brain activity from adolescence to adulthood." ***Journal of Neuroscience. 2018.***
 - **Kundu, P.**, Smith, D. A. "The relationship of lateralization and phenomenology to neural circuits." ***Religion, Brain & Behavior, 2019.***
@@ -30,7 +30,7 @@ I am a a leader in the field of computational psychiatry and pioneer in the use 
 - **Kundu, P.**; Brenowitz, Noah D; Voon, V.; Worbe, Y.; Vértes, P. E; Inati, S. J.; Saad, Z. S.; Bandettini, P. A.; Bullmore, E. T. "Integrated strategy for improving functional connectivity mapping using multiecho fMRI." ***Proceedings of the National Academy of Sciences. 2014.***
 - Nahab, F. B.; **Kundu, P.**; Gallea, C.; Kakareka, J.; Pursley, R.; Pohida, R.; Miletta, N.; Friedman, J.; Hallett, M. "The neural processes underlying self-agency." ***Cerebral cortex. 2011***
 
-## Invited Talks and Career Highlights
+## [Invited Talks and Career Highlights](#invited-talks)
 - Product lead, lead author, first U.S. patents on deep learning for MRI reconstruction. `2020`
 - Lecturer, Nature of Mind Series, Sivananda Ashram, Bahamas. `2012-2020`
     - Invited as a guest of Swami Swaroopananda, lineage of Adi Shankaracharya (Advaita Vedanta).
@@ -91,7 +91,7 @@ I am a a leader in the field of computational psychiatry and pioneer in the use 
     - Advisor: Prof. Vladimir Igor Tsifrinovich
     - NYU Polytechnic 
 
-## Funding
+## [Funding](#funding)
 - (R01) Transdiagnostic Multimodal 7 Tesla Mri of the Locus Coeruleus in Human Pathological Anxiety (NIMH: 5R01MH116953-02). **$2.7M total award. Role: Principal Investigator (15%, transferred after joining Hyperfine).**
 - (R01) Mechanistic and Causal Basis of fMRI Functional Connectivity in Non-Human Primates.  **$2.8M FY 2019 award. NIH BRAIN Award.** Role: Co-Investigator (10%).
 - (U01) Biomarkers of Psychological Risk and Resilience in World Trade Center Responders (NIOSH: U01 OH010407). **$2.4M total award.** Role: Co-Investigator (10%).
@@ -102,14 +102,14 @@ I am a a leader in the field of computational psychiatry and pioneer in the use 
 	- *with Dr. Dennis Charney, Dean, School of Medicine, Icahn School of Medicine at Mount Sinai.*
 - (R01) Real-time fMRI Neurofeedback Based Stratification of Default Network Regulation. **$2.5M total award (NIMH BRAINS award)** . Role: Co-Principal Investigator (Supplement), with Dr. R. Cameron Craddock. (15%) 
 
-## Intellectual Property
+## [Intellectual Property](#ip)
 - US-2020033431-A1. "Deep learning techniques for magnetic resonance image reconstruction." Hyperfine Research, Inc. `2019`
 - US-2020058106-A1. "Deep learning techniques for suppressing artefacts in magnetic resonance images." Hyperfine Research, Inc. `2019`
 - WO2012/040219A2. "Context differential autocorrelation mapping of functional MRI." University of Miami. `2011`
 - 5 other applications pertaining to deep learning MRI reconstruction, radar array MRI hardware motion correction, real-time ray-tracing of medical images using ordinary mobile phones.
 
 
-## Experience
+## [Experience](#experience)
 
 ### **Hyperfine Research Incorporated**
 - Head of Ecosystem `2019-current`
@@ -150,7 +150,7 @@ I am a a leader in the field of computational psychiatry and pioneer in the use 
 - Server infrastructure front-office lead, International Division, at age 15.
 - Supervisor: Raj Goel, Founder.
 
-## Education
+## [Education](#education)
 ### Doctor of Philosophy, Psychiatry (Computational). University of Cambridge, Gonville & Caius College. NIH-Cambridge Scholar. `2009-2014`
 - Thesis advisors: Ed Bullmore, MD, PhD (Chief, Cambridge University Brain Mapping Unit) and Peter A. Bandettini, PhD (Chief, NIMH Section on Functional Imaging Methods, NIH MRI Core Facility).
 - Thesis title: Physical Analysis of BOLD fMRI Signals for Functional Brain Mapping and Connectomics.
