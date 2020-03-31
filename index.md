@@ -180,7 +180,7 @@ I am a a leader in the field of computational psychiatry and pioneer in the use 
 - Experimental elementary school program for highly gifted children in the New York City public school system (2 classes, city-wide).
 - New York City Department of Education public school student in Flushing, Queens, NY (born and raised).
 
-## Publications
+## [Publications](#publications) 
 
 - "Lombardo, Michael V; Auyeung, Bonnie; Holt, Rosemary J; Waldman, Jack; Ruigrok, Amber NV; Mooney, Natasha; Bullmore, Edward T; Baron-Cohen, Simon; **Kundu, Prantik**; ", Improving effect size estimation and statistical power with multi-echo fMRI and its impact on understanding the neural systems supporting mentalizing, Neuroimage, 142, 55-66, 2016, Elsevier 
 
