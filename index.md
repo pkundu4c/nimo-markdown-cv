@@ -20,7 +20,8 @@ Supported arguments:
 -->
 
 ## [About Me](#about-me) 
-I am a leader in the field of computational psychiatry and pioneer in the use of high- and ultra-high-field MRI (3T-11.7T) to study the activity of neural circuits in human neuropsychiatric disease. I am also Head of Ecosystem and Principal Scientist at Hyperfine Research, where I make fundamental contributions to methods of data acqusition and image reconstruction for ultra-low field permanent-magnet (64mT) bedside MRI. Before joining Hyperfine, my group and I raised approximately $14,000,000 in NIH funding for our laboratory at the Icahn School of Medicine at Mount Sinai. I also contribute scholarship in the field of philosophy of mind. My work has been referenced about 1,800 times in scientific literature (since 2015).
+I am a leader in the field of computational psychiatry and pioneer in the use of high- and ultra-high-field MRI (3T-11.7T) to study the activity of neural circuits in human neuropsychiatric disease. I am also Head of Ecosystem and Principal Scientist at Hyperfine Research, where I make fundamental contributions to methods of data acqusition and image reconstruction for ultra-low field permanent-magnet (64mT) bedside MRI. Before joining Hyperfine, my group and I raised approximately $14,000,000 in NIH funding for our laboratory at the Icahn School of Medicine at Mount Sinai. I also contribute scholarship in the field of philosophy of mind. My work has been referenced about 1,800 times in scientific literature ([Google Scholar Profile](https://scholar.google.com/citations?user=kSXl63oAAAAJ&hl=en&oi=ao)).
+
 
 ## [Notable Scholarship](#notable-scholarship)
 - Morris, L. S.; Tan, A.; Smith, D. A; Grehl, M.; Han-Huang, K.; Naidich, T.; Charney, D. S.; Balchandani, P.; Murrough, J. W.; **Kundu, P.** "Sub-millimeter variation in human locus coeruleus is associated with dimensional measures of psychopathology: An in vivo ultra-high field 7-Tesla MRI study." ***NeuroImage: Clinical. 2020.***
@@ -179,6 +180,7 @@ I am a leader in the field of computational psychiatry and pioneer in the use of
 - New York City Department of Education public school student in Flushing, Queens, NY (born and raised).
 
 ## [Publications](#publications) 
+
 - "Lombardo, Michael V; Auyeung, Bonnie; Holt, Rosemary J; Waldman, Jack; Ruigrok, Amber NV; Mooney, Natasha; Bullmore, Edward T; Baron-Cohen, Simon; **Kundu, Prantik**; ", Improving effect size estimation and statistical power with multi-echo fMRI and its impact on understanding the neural systems supporting mentalizing, Neuroimage, 142, 55-66, 2016, Elsevier
 
 - "**Kundu, P**; Inati, SJ; Evans, JW; Saad, ZS; Bandettini, PA; ", Fully Automated fMRI Denoising Using Multi-Echo fMRI and TE-Dependent Properties, "Proceedings of the 19th ISMRM, Montreal", 3638, 2011.
@@ -342,6 +344,3 @@ I am a leader in the field of computational psychiatry and pioneer in the use of
 - "Moeller, Scott; **Kundu, Prantik**; Bachi, Keren; Maloney, Thomas; Malaker, Pias; Parvaz, Muhammad; Alia-Klein, Nelly; London, Edythe; Goldstein, Rita; ", Neurocircuitry Underlying Self-Awareness of the Need to Change Problematic Drug Use: A New fMRI Task Assessing Insight in Addiction, NEUROPSYCHOPHARMACOLOGY, 43, S520-S520, 2018, "NATURE PUBLISHING GROUP MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND" 
 
 - "Moeller, Scott J; **Kundu, Prantik**; Bachi, Keren; Maloney, Thomas; Malaker, Pias; Parvaz, Muhammad A; Alia-Klein, Nelly; London, Edythe D; Goldstein, Rita Z; ", Self-awareness of problematic drug use: Preliminary validation of a new fMRI task to assess underlying neurocircuitry, Drug and Alcohol Dependence, 107930, 2020, Elsevier
-<!-- ### Footer
-
-Last updated: May 2013 -->
