@@ -70,7 +70,7 @@ I am a leader in the field of computational psychiatry and pioneer in the use of
 - Invited Speaker, International Magnetic Resonance in Medicine Workshop on Ultra-High Resolution MRI. Asilomar, Monterey, CA. USA. `2011`
 - Awarded Best Project at the NIH-Oxford-Cambridge Colloqium (3 years in a row) `2011-2013`
 - Selected Abstract, International Magnetic Resonance in Medicine Workshop on Ultra High Field MRI. Lake Louise, AL, Canada. `2011`
-- Awarded NIH-Oxford-Cambrdge Medal by *Dr. Anthony Fauci.* `2009`
+- Awarded NIH-Oxford-Cambridge Medal by *Dr. Anthony Fauci.* `2009`
 - Accepted to NIH-Oxford-Cambridge Scholars Program `2009`
 	- Founded by Drs. David Baltimore and Mike Lenardo (NIAID).
     - Affiliates: International Biomedical Research Alliance, George Yancopoulos (Regeneron), Howard Hughes Medical Institute.
