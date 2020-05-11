@@ -10,7 +10,7 @@ homepage:
 ---
 
 # Prantik Kundu **PhD** 
-### Computational Psychiatry, Magnetic Resonance Imaging, Neuropsychopharmacology, Quantum Computing, Artificial Intelligence, Theory of Mind
+### Computational Psychiatry, Magnetic Resonance Imaging, Neuropsychopharmacology, Artificial Intelligence, Theory of Mind
 <!--
 include contact information from the front matter
 Supported arguments:
@@ -20,7 +20,7 @@ Supported arguments:
 -->
 
 ## [About Me](#about-me) 
-I am a a leader in the field of computational psychiatry and pioneer in the use of high- and ultra-high-field MRI (3T-11.7T) to study the activity of neural circuits in human neuropsychiatric disease. I am also Head of Ecosystem and Principal Scientist at Hyperfine Research, where I make fundamental contributions to methods of data acqusition and image reconstruction for ultra-low field permanent-magnet (64mT) bedside MRI. Before joining Hyperfine, my group and I raised approximately $14,000,000 in NIH funding for our laboratory at the Icahn School of Medicine at Mount Sinai. I also contribute scholarship in the field of philosophy of mind. My work has been referenced about 1,800 times in scientific literature (since 2015).
+I am a leader in the field of computational psychiatry and pioneer in the use of high- and ultra-high-field MRI (3T-11.7T) to study the activity of neural circuits in human neuropsychiatric disease. I am also Head of Ecosystem and Principal Scientist at Hyperfine Research, where I make fundamental contributions to methods of data acqusition and image reconstruction for ultra-low field permanent-magnet (64mT) bedside MRI. Before joining Hyperfine, my group and I raised approximately $14,000,000 in NIH funding for our laboratory at the Icahn School of Medicine at Mount Sinai. I also contribute scholarship in the field of philosophy of mind. My work has been referenced about 1,800 times in scientific literature (since 2015).
 
 ## [Notable Scholarship](#notable-scholarship)
 - Morris, L. S.; Tan, A.; Smith, D. A; Grehl, M.; Han-Huang, K.; Naidich, T.; Charney, D. S.; Balchandani, P.; Murrough, J. W.; **Kundu, P.** "Sub-millimeter variation in human locus coeruleus is associated with dimensional measures of psychopathology: An in vivo ultra-high field 7-Tesla MRI study." ***NeuroImage: Clinical. 2020.***
@@ -55,7 +55,7 @@ I am a a leader in the field of computational psychiatry and pioneer in the use 
 - Invited Speaker, Human Connectome Workshop Hands-on Course, University of Minnesota. `2015`
 - Innovation Award, International Biomedical Research Alliance. `2014`
     - ***Annual award to one doctoral awardee globally for "contributions of unusual importance"***
-    - Representing NIH, Rhodes, Gates, HHMI Scholar Programs; Oxford, Cambridge, Karolinksa Institute.
+    - Representing NIH, Rhodes, Gates, HHMI Scholar Programs; Oxford, Cambridge, Karolinksa Institut.
 - Invited Speaker, Univeristy College London `2014`
 - Invited Speaker, Nijmegen University `2013`
 - Invited Speaker, University of Cyprus `2013`
@@ -120,13 +120,11 @@ I am a a leader in the field of computational psychiatry and pioneer in the use 
 ### **Icahn School of Medicine at Mount Sinai** `2014-current` 
 - Assistant Professor, Department of Radiology
 - Assistant Professor, Department of Psychiatry 
-
-    Adjunct status. Continuing contributions to the field of computational psychiatry.
+    Active contributor in the field of computational psychiatry.
 
 ### **Icahn School of Medicine at Mount Sinai** `2014-2017 ` 
 - Chief, Section of Advanced Functional Imaging Methods.
 - Chief, ANALYZE Section of the Translational and Molecular Imaging Institute. 
-
     Conducted multi-displinary research in development of magnetic resonance imaging techniques and applications in elucidating neural correlates of neuropsychiatric disease *in vivo*. Projects spanned rodent and primate neuroscience, anesthesiology, epilepsy, neurodegenerative disease (Parkinson's and Alzheimer's diseases). Supervisor: Prof. Dr. Zahi Fayad, PhD., Director.
 
 ### **Doctoral Fellow, National Institute of Mental Health** `2009-2014`
@@ -157,7 +155,7 @@ I am a a leader in the field of computational psychiatry and pioneer in the use 
 - Readers: Prof. Steven Williams, University College London; Dr. Guy Williams, Waisman Brain Imaging Center (WBIC). 
 
 ### Manhattan College. `2004-2007`
-- Phi Beta Kappa. Christian Brothers, Jesuit Mission.
+- Phi Beta Kappa. Christian Brothers.
 - B.S. Chemistry, Magna Cum Laude.
 - Quantum and Computational Chemistry Track.
     - *ab initio* and density functional theory quantum chemistry research on heterocyclic aromatic dimers.
@@ -181,10 +179,9 @@ I am a a leader in the field of computational psychiatry and pioneer in the use 
 - New York City Department of Education public school student in Flushing, Queens, NY (born and raised).
 
 ## [Publications](#publications) 
+- "Lombardo, Michael V; Auyeung, Bonnie; Holt, Rosemary J; Waldman, Jack; Ruigrok, Amber NV; Mooney, Natasha; Bullmore, Edward T; Baron-Cohen, Simon; **Kundu, Prantik**; ", Improving effect size estimation and statistical power with multi-echo fMRI and its impact on understanding the neural systems supporting mentalizing, Neuroimage, 142, 55-66, 2016, Elsevier
 
-- "Lombardo, Michael V; Auyeung, Bonnie; Holt, Rosemary J; Waldman, Jack; Ruigrok, Amber NV; Mooney, Natasha; Bullmore, Edward T; Baron-Cohen, Simon; **Kundu, Prantik**; ", Improving effect size estimation and statistical power with multi-echo fMRI and its impact on understanding the neural systems supporting mentalizing, Neuroimage, 142, 55-66, 2016, Elsevier 
-
-- "**Kundu, P**; Inati, SJ; Evans, JW; Saad, ZS; Bandettini, PA; ", Fully Automated fMRI Denoising Using Multi-Echo fMRI and TE-Dependent Properties, "Proceedings of the 19th ISMRM, Montreal", 3638, 2011,  
+- "**Kundu, P**; Inati, SJ; Evans, JW; Saad, ZS; Bandettini, PA; ", Fully Automated fMRI Denoising Using Multi-Echo fMRI and TE-Dependent Properties, "Proceedings of the 19th ISMRM, Montreal", 3638, 2011.
 
 - "Loth, Eva; Charman, Tony; Mason, Luke; Tillmann, Julian; Jones, Emily JH; Wooldridge, Caroline; Ahmad, Jumana; Auyeung, Bonnie; Brogna, Claudia; Ambrosino, Sara; ", The EU-AIMS Longitudinal European Autism Project (LEAP): design and methodologies to identify and validate stratification biomarkers for autism spectrum disorders, Molecular autism, 8, 1, 24, 2017, BioMed Central 
 
