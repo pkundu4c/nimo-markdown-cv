@@ -32,17 +32,16 @@ I am a leader in the field of computational psychiatry and pioneer in the use of
 - Nahab, F. B.; **Kundu, P.**; Gallea, C.; Kakareka, J.; Pursley, R.; Pohida, R.; Miletta, N.; Friedman, J.; Hallett, M. "The neural processes underlying self-agency." ***Cerebral cortex. 2011***
 
 ## [Invited Talks and Career Highlights](#invited-talks)
-- Product lead, lead author, first U.S. patents on deep learning for MRI reconstruction. `2020`
-- Lecturer, Nature of Mind Series, Sivananda Ashram, Bahamas. `2012-2020`
-    - Invited as a guest of Swami Swaroopananda, lineage of Adi Shankaracharya (Advaita Vedanta).
+- Science lead, product lead, first U.S. patents on deep learning for MRI reconstruction. `2020`
+- Speaker, Nature of Mind Series, Sivananda Ashram, Bahamas. `2012-2020`
+    - Invited as a guest of Swami Swaroopananda.
 - Invited Speaker, University of Pennsylvania. `2019`
 - Invited Speaker, Sorbonne University. Paris, France. `2014, 2019`
+- First NIH R01 as Co-Principal Investigator (transferred to P. Balchandani), at age 33 `2018`
 - Organization for Human Brain Mapping, Chair, Workshops on Multi-Echo Functional MRI.
 	- Toronto, Canada `2017`
 	- Beijing, China. `2016`
-- First NIH R01 as Principal Investigator, at age 33 `2018`
-- Invited Speaker, Princeton University - UMDNJ Partnership 
-	- Recruited for executive leadership, declined `2017`
+- Invited Speaker, Princeton University - UMDNJ Partnership `2017`
 - Invited Speaker, Wayne State University `2017`
 - Keynote Speaker, American Society for Functional Neuroradiology `2016`
 - Guest Lecturer, International Society for Magnetic Resonance in Medicine, Multi-band Imaging Course. `2016`
@@ -74,8 +73,8 @@ I am a leader in the field of computational psychiatry and pioneer in the use of
 - Accepted to NIH-Oxford-Cambridge Scholars Program `2009`
 	- Founded by Drs. David Baltimore and Mike Lenardo (NIAID).
     - Affiliates: International Biomedical Research Alliance, George Yancopoulos (Regeneron), Howard Hughes Medical Institute.
-- Accepted to the University of Miami MD/PhD Program (declined). `2009`
-- Co-developed Univeristy of Miami Movement Disorders Functional MRI Program (with Dr. Fatta B. Nahab and *Dr. Ralph Sacco, MD, President Emeritus, American Heart Association,* first neurologist to serve as President of the AHA). `2008`
+- Accepted to the University of Miami MD/PhD Program. `2009`
+- Contributed to the development of the Univeristy of Miami Functional MRI Program (with Dr. Fatta B. Nahab and *Dr. Ralph Sacco, MD, President Emeritus, American Heart Association,* first neurologist to serve as President of the AHA). `2008`
 - Phi Beta Kappa, Manhattan College. `2007`
 - First Prize (NINDS Summer Research Institute) `2006`
     - "Mapping Neural Correlates of Task-Specific Focal Hand Dystonia Using fMRI"
@@ -88,7 +87,7 @@ I am a leader in the field of computational psychiatry and pioneer in the use of
 - Intel International Science and Engineering Fair (ISEF) Third Prize in Physics. Louisville, KY. `2002` 
     - "Accomodating Non-Resonant Transitions in the Controlled-Note Gate of a Quantum Computer", Lousiville, KY.`
 - Regional Champion (team), Science Olympiad, New York Academy of Sciences. `August, 2001`
-    - Developed a spin dynamics simulator and discovered a quantum error code to implement the quantum XOR gate in 4 pulses, age 17.
+    - Developed a spin dynamics simulator and discovered a quantum error correcting code to implement the quantum XOR gate in 4 pulses, age 17.
     - Advisor: Prof. Vladimir Igor Tsifrinovich
     - NYU Polytechnic 
 
@@ -163,7 +162,7 @@ I am a leader in the field of computational psychiatry and pioneer in the use of
     - Advisors: Prof. Joseph Capitani, Prof. Abhijit Mitra (inventor of HPLC, cited over 10,000 times)
 - Independent Study Track. Religious Studies.
     - Paper: "Kali as a psychological limit operator" 
-    - Advisor: Prof. Stephen Kaplan. Scholar in Sanskrit, on Gaudapada. Director, Manhattan College Center for Veterans Success.
+    - Advisor: Prof. Stephen Kaplan. Director, Manhattan College Center for Veterans Success.
 
 ### Carnegie Mellon University. Pittsburgh, PA `2002-2004`
 - Discrete Mathematics (Prof. John Mackey)
@@ -176,7 +175,7 @@ I am a leader in the field of computational psychiatry and pioneer in the use of
 - Awarded diploma by William Jefferson Clinton and Charles S. Schumer.
 
 ### Alpha. Queens, NY. `1992-1996`.
-- Experimental elementary school program for highly gifted children in the New York City public school system (2 classes, city-wide).
+- Experimental elementary school program for gifted children in the New York City public school system (2 classes, city-wide).
 - New York City Department of Education public school student in Flushing, Queens, NY (born and raised).
 
 ## [Publications](#publications) 
